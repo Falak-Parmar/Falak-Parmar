@@ -47,13 +47,13 @@ When I’m not tuning hyperparameters, I’m likely:
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Falak Parmar](https://www.linkedin.com/in/falak-parmar)
+- **LinkedIn:** [Falak Parmar](https://www.linkedin.com/in/falak-parmar-7b3b51256)
 - **Portfolio:** [github.com/Falak-Parmar](https://github.com/Falak-Parmar)
 
 ---
 
-![Falak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Falak-Parmar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falak-Parmar&layout=compact&theme=radical)
+![Falak's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Falak-Parmar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Falak-Parmar&layout=compact&theme=radical)
 <!--
 **Falak-Parmar/Falak-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
