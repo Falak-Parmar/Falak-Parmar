@@ -2,7 +2,8 @@
 
 ### Physics Alum | Data Science Master's Student @ DAIICT | Quantum Enthusiast
 
-I’m a Data Scientist bridging the gap between theoretical physics and applied machine learning. I specialize in **Quantum Machine Learning (QML)** and **Numerical Optimization**, with a track record of building high-performance solutions for complex datasets.
+I’m a Data Scientist bridging the gap between theoretical physics and applied machine learning. 
+I specialize in **Quantum Machine Learning (QML)** with a track record of building high-performance solutions for complex datasets.
 
 ---
 
