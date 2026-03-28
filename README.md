@@ -7,7 +7,6 @@ I’m a Data Scientist bridging the gap between theoretical physics and applied 
 ---
 
 ## 🚀 At a Glance
-- 🏆 **MIT iQuHACK 2026:** Placed 8th out of 578 teams globally (IonQ Challenge).
 - 🔬 **Current Focus:** Improving QML models using **CERN dataset** benchmarks.
 - 🎓 **Background:** B.Sc. in Physics → Transitioned to M.Sc. in Data Science to build the future of computational intelligence.
 - 🖋️ **Creative Side:** I spend my "offline" hours worldbuilding grand fantasy journeys and studying the wit of P.G. Wodehouse.
