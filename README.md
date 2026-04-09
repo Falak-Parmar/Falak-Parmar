@@ -21,10 +21,10 @@ I specialize in **Quantum Machine Learning (QML)** with a track record of buildi
 | **Quantum Computing** | Qiskit, OpenQASM, IonQ, PennyLane |
 | **Data Science / ML** | Python, PyTorch, TensorFlow, Scikit-Learn |
 | **Core Skills** | Numerical Optimization, Neural Networks, Big Data Engineering |
-| **Specialized** | Portfolio Optimization, Risk Assessment, Computational Physics |
+| **Interests** | Portfolio Optimization, Risk Assessment, Computational Physics |
 
 ---
-
+<!--
 ## 📁 Featured Projects
 
 ### 🌌 [2026-IonQ / Superquantum](https://github.com/Falak-Parmar/Superquantum-iQuHACK-2026)
@@ -37,6 +37,7 @@ I specialize in **Quantum Machine Learning (QML)** with a track record of buildi
 *A robust data pipeline and semantic search system designed to extract and clean high-quality datasets for NLP models.*
 
 ---
+-->
 
 ## ✍️ Beyond the Code
 When I’m not tuning hyperparameters, I’m likely:
