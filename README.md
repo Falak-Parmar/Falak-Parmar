@@ -34,6 +34,12 @@ I specialize in **Quantum Machine Learning (QML)** with a track record of buildi
 *A robust data pipeline and semantic search system designed to extract and clean high-quality datasets for NLP models.*
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Falak-Parmar/github-stats-transparent/output/generated/overview.svg" alt="GitHub Statistics" width="45%" />
+  <img src="https://raw.githubusercontent.com/Falak-Parmar/github-stats-transparent/output/generated/languages.svg" alt="Top Languages" width="45%" />
+</p>
+
+---
 
 ## ✍️ Beyond the Code
 When I’m not tuning hyperparameters, I’m likely:
@@ -47,10 +53,7 @@ When I’m not tuning hyperparameters, I’m likely:
 - **LinkedIn:** [Falak Parmar](https://www.linkedin.com/in/falak-parmar-7b3b51256)
 - **Portfolio:** [github.com/Falak-Parmar](https://github.com/Falak-Parmar)
 
----
 
-![Falak's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Falak-Parmar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Falak-Parmar&layout=compact&theme=radical)
 <!--
 **Falak-Parmar/Falak-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
